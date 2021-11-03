@@ -60,3 +60,20 @@ footer small, footer a {
 footer a:hover {
     color: #f5f5f5;
 }
+/* --- about page --- */
+#page-content {
+    color: #f5f5f5;
+}
+.bio {
+    background-color: #fffff0;
+}
+
+.about p {
+    line-height: 1.75em;
+}
+
+#page-content {
+    margin-top: 2em;
+    flex: 1 0 auto;
+    padding-top: 3em;
+}
