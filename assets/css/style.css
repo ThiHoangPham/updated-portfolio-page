@@ -1,0 +1,62 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    background-color: 0, 0, 0, 1;
+}
+html,
+body {
+    height: 100%;
+}
+body {
+    opacity: 1;
+    transition: 0.7s opacity;
+  }
+  body.fade {
+      opacity: 0;
+      transition: none;
+  }
+  
+/* --- Home Page --- */
+.jumbotron {
+    background: url(../images/perth-fullsize-photo.jpg) no-repeat center center fixed;
+    height: 90vh;
+    margin-bottom: 0;
+    color: #f5f5f5;
+    text-align: center;
+    font-weight: 500;
+    text-shadow: 2px 2px #333;
+}
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.75rem;
+    font-weight: 800;
+}
+nav li {
+    padding-left: 3em;
+}
+.navbar-dark .navbar-brand{
+    color: yellow;
+}
+.navbar-nav li a:hover{
+    color: white;
+}
+.display-4 {
+    color: yellow;
+    text-align: center;
+    font-weight: 500;
+    text-shadow: 2px 2px #333;
+    padding-top: 5em;
+}
+.btn-outline-secondary {
+    color:#f5f5f5 
+}
+footer small, footer a {
+    color: #f5f5f5;
+    text-align: right;
+    height: 1.5rem;
+    margin-bottom: 15px;
+    text-decoration: none;
+    font-size: small;
+}
+footer a:hover {
+    color: #f5f5f5;
+}
