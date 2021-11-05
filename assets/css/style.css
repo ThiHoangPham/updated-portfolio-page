@@ -153,3 +153,60 @@ h1.contact {
     transition: 0.35s;
     transform: scale(3);
 }
+/* --- resume page --- */
+.resume {
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+}
+.resume-icon {
+    color: #5ca6eb;
+    text-shadow: none;
+}
+.resume-links {
+    line-height: 2rem;
+}
+.resume-links a:link {
+    color: #e6dede; 
+}
+.html-logo {
+    color:orange;
+}
+.css-logo {
+    color: rgb(31, 143, 247);
+}
+.js-logo {
+    color: yellow;
+}
+.n-js-logo {
+    color: rgb(7, 189, 7);
+}
+.resume-links a:visited {
+    color: #e6dede;
+}
+.resume-links a:hover {
+    color: #f5f5f5;
+    text-decoration: underline;
+}
+.resume-name {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.6rem;
+}
+hr {
+    background-color: #f5f5f5;
+}
+.btn-send {
+    color: rgb(125, 192, 250);
+}
+.thanks-title {
+    color: #f5f5f5;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    font-weight: 800;
+    margin-top: 6rem;
+}
+.thanks-reply {
+    color: #f5f5f5;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem;
+    font-weight: 800;
+}
