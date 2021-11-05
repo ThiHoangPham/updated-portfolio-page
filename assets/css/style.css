@@ -210,3 +210,50 @@ hr {
     font-size: 1.5rem;
     font-weight: 800;
 }
+@media screen and (max-width:768px) {
+    /* home page */
+    h1 {
+        font-size: 1.75em;
+    }
+    h2 {
+        font-size: 1em;
+    }
+    h4 {
+        
+        font-size: 1.25em;
+    }
+    /* contact page */
+   .fa-3x {
+       font-size: 225%;
+   }
+    .icon {
+        padding: 12px;
+    }
+    form {
+        margin: 1em;
+    }
+ 
+    /* about page */
+    #bio-pic {
+        max-height: 400px;
+        padding:0;
+    }
+    figure {
+        align-content: center;
+    }
+    .about {
+    margin-bottom: 3em;
+    }  
+    #page-content {
+        margin: 2em;
+    }
+    /* mywork text direction */
+    .text {
+        text-align: center;
+    }
+    /* --- resume page  --- */
+    #profile-pic {
+        max-height: 400px;
+        align-items: center;
+    }
+}
