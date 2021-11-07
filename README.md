@@ -4,8 +4,7 @@
   <a href="https://github.com/ThiHoangPham/updated-portfolio-page-adam-homework8">
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
   <a href="https://github.com/ThiHoangPham/updated-portfolio-page-adam-homework8">
-  <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-" target="_blank" />
+  <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" target="_blank" />
   <a href="https://github.com/ThiHoangPham/updated-portfolio-page-adam-homework8">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascriptlogoColor=black"
   <a href="https://github.com/ThiHoangPham/updated-portfolio-page-adam-homework8">
