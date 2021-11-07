@@ -30,7 +30,7 @@
   <img alt="made with vs code" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg?style=flat-square" target="_blank" />
   </a>
   <a href="https://github.com/ThiHoangPham/updated-portfolio-page-adam-homework8">
-  <img alt="made with vs code" src="https://img.shields.io/github/downloads/ThiHoangPham/updated-portfolio-page-adam-homework8/total.svg?style=flat-square" target="_blank" />
+  <img alt="top language" src="https://img.shields.io/github/languages/top/ThiHoangPham/updated-portfolio-page-adam-homework8?color=%23ff4000&style=flat-square" target="_blank" />
   </a>
   <a href="https://twitter.com/AdamThaiHoang1">
   <img alt="Twitter: AdamThaiHoang1" src="https://img.shields.io/twitter/follow/AdamThaiHoang1?logo=twitter&style=flat-square" target="_blank" />
