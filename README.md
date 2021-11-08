@@ -18,7 +18,7 @@
   <img alt="watchers" src="https://img.shields.io/github/watchers/ThiHoangPham/updated-portfolio-page-adam-homework8?color=%2346b946&style=flat-square" target="_blank" />
   <a href="https://github.com/ThiHoangPham/updated-portfolio-page-adam-homework8">
   <img alt="rep size" src="https://img.shields.io/github/repo-size/ThiHoangPham/updated-portfolio-page-adam-homework8?style=flat-square" target="_blank" />
-  <a href="https://github.com/ThiHoangPham/updated-portfolio-page-adam-homework8">
+  <a href="https://github.com/ThiHoangPham/updated-portfolio-page-adam-homework8/blob/main/LICENSE">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg?style=flat-square" target="_blank" />
   </a>
   <a href="https://github.com/ThiHoangPham/updated-portfolio-page-adam-homework8">
